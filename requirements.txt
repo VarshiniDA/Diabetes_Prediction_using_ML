@@ -1,0 +1,8 @@
+##REQUIREMENTS##
+-> Python 3.X
+-> matplotlib 3.4.3
+-> pandas 1.3.4
+-> seaborn 0.11.2
+-> numpy 1.21.3
+-> sklearn 0.0
+-> pickle 0.7.5
